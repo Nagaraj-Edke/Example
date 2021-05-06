@@ -30,6 +30,3 @@ var listner4 =(data) =>{
     console.log("Hello I am first listner",data);
 }
 
-var listner6 =() =>{
-    console.log("Iam from second listner");
-}

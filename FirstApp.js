@@ -24,7 +24,7 @@ var listner1 =(data) =>{
 var listner2 =() =>{
     console.log("Iam from second listner");
 }
-
+console.log("hello")
 
 var listner4 =(data) =>{
     console.log("Hello I am first listner",data);

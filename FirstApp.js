@@ -25,7 +25,3 @@ var listner2 =() =>{
     console.log("Iam from second listner");
 }
 
-function list(){
-    console.log("Good");
-}
-

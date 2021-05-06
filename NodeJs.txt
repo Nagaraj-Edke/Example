@@ -1,0 +1,21 @@
+*   What is NodeJs?
+
+*   What is Node.js used for?
+
+*   Is nodeJs a languange?
+
+*   Is nodeJs a FrameWork?
+
+Events in NodeJs
+    1.import the event module
+        requre('events')
+
+    2.create event-emitter obj
+        var eventEmitter = new event.EventEmitter()
+        
+    3.bind the event and event Handler 
+        //using on(event,listner) or addListner(event,listner) 
+        eventEmitter.on('eventName',eventHandler)
+        
+    4.Fire the event
+        eventEmitter.emit('eventName')

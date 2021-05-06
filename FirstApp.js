@@ -12,6 +12,6 @@ console.log("hello")
 console.log("Server is running at  http://localhost:8081/  **");
 console.log(true);
 res.writable;console.log(true);
-res.writable;console.log(true);
-res.writable; 
+
+console.log("namam");
 
